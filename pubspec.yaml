@@ -1,0 +1,32 @@
+name: retry_strategies
+description: Production-grade retry strategies, circuit breakers, locks, and cancellation for resilient Dart and Flutter applications.
+version: 1.0.0
+homepage: https://github.com/deepak-gehlot/dart_retry_strategies
+repository: https://github.com/deepak-gehlot/dart_retry_strategies
+issue_tracker: https://github.com/deepak-gehlot/dart_retry_strategies/issues
+
+environment:
+  sdk: '>=2.18.0 <4.0.0'
+
+dependencies:
+  # No production dependencies - uses only Dart SDK
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^2.1.0
+
+# Publish settings
+publish_to: https://pub.dev
+
+topics:
+  - retry
+  - circuit-breaker
+  - resilience
+  - concurrency
+  - flutter
+  - dart
+  - exponential-backoff
+  - jitter
+  - locks
+  - semaphore
+  - mutex
