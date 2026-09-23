@@ -833,7 +833,7 @@ Deepak Gehlot
 Senior Flutter Developer | Production Systems | Offline-First Architecture
 
 - GitHub: [@deepak-gehlot](https://github.com/deepak-gehlot)
-- Email: deepak@example.com
+- Email: 1deepakgehlot@gmail.com
 
 ---
 
